@@ -7,9 +7,10 @@ The module can be used as a stand alone module with attached battery, speaker an
 These modules can be purchased on [Amazon](https://www.amazon.com/gp/product/B01MQD5IIA)
 
 DFPlayer Mini MP3 Player [Overview and Specs](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299)
-(https://github.com/craig1971/Arduino_MP3_DFPlayer/blob/master/images/playerMini.png)
 
-(./images/miniplayer_pin_map.png)
+[image](https://github.com/craig1971/Arduino_MP3_DFPlayer/blob/master/images/playerMini.png)
+
+[image](./images/miniplayer_pin_map.png)
 
 
 
