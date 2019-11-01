@@ -12,7 +12,8 @@ DFPlayer Mini MP3 Player [Overview and Specs](https://wiki.dfrobot.com/DFPlayer_
 
 ![image](./images/miniplayer_pin_map.png)
 
-<img src="./images/miniplayer_pin_map.png" width="100">
+<img src="./images/miniplayer_pin_map.png" width=250>
+[full size](./images/miniplayer_pin_map.png)
 
 
 Other Examples: 
