@@ -10,7 +10,7 @@ DFPlayer Mini MP3 Player [Overview and Specs](https://wiki.dfrobot.com/DFPlayer_
 
 ## Hardware & Setup
 
-<img src="./images/miniplayer_pin_map.png" width=250>
+<img src="./images/miniplayer_pin_map.png" width=250> <img src="./images/pin_map_desc_en.png" width=250> 
 
 <img src="./images/playerMini.png" width=400>
 
