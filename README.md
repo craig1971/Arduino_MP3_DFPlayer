@@ -4,7 +4,7 @@ How to use the DF Robot DF Player Mini to play MP3 files with an Arduino
 The DFPlayer Mini MP3 Player with built in amplification on a breakout board 
 The module can be used as a stand alone module with attached battery, speaker and push buttons or used in combination with microcontroller with RX/TX capabilities.
 
-<img src="./images/DFR0299-600x600.png">
+<img src="./images/DFR0299-600x600.jpg">
 
 These modules can be purchased on [Amazon](https://www.amazon.com/gp/product/B01MQD5IIA)
 
