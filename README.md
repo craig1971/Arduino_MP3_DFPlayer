@@ -8,14 +8,14 @@ These modules can be purchased on [Amazon](https://www.amazon.com/gp/product/B01
 
 DFPlayer Mini MP3 Player [Overview and Specs](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299)
 
-##Hardware & Setup
+## Hardware & Setup
 
 <img src="./images/miniplayer_pin_map.png" width=250>
 
 <img src="./images/playerMini.png" width=400>
 
 
-##Other Examples: 
+## Other Examples: 
 
 https://www.dfrobot.com/blog-277.html
 
