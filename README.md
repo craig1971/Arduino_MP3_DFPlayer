@@ -36,6 +36,8 @@ Available via Libray Manager in Arduino IDE
 [DFRobotDFPlayerMini.h](https://github.com/DFRobot/DFRobotDFPlayerMini/blob/master/DFRobotDFPlayerMini.h)
 
 ## Other References and Examples: 
+http://markus-wobisch.blogspot.com/2016/09/arduino-sounds-dfplayer.html
+
 https://reprage.com/post/dfplayer-mini-cheat-sheet
 
 https://www.dfrobot.com/blog-277.html
